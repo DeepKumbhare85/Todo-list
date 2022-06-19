@@ -1,5 +1,7 @@
 # TodoList
 
+This is a to do list app developed in angular.With this app user can add the task which he/she has to perform and can delete that task when it is completed .
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
